@@ -1,0 +1,13 @@
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.exe
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.deps.json
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.runtimeconfig.json
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.runtimeconfig.dev.json
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.dll
+D:\Trash\projects\TestElva\TestElva\bin\Debug\netcoreapp3.1\TestElva.pdb
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.AssemblyInfoInputs.cache
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.AssemblyInfo.cs
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.csproj.CoreCompileInputs.cache
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.dll
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.pdb
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.genruntimeconfig.cache
+D:\Trash\projects\TestElva\TestElva\obj\Debug\netcoreapp3.1\TestElva.csprojAssemblyReference.cache
